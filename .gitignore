@@ -1,0 +1,16 @@
+**/build/
+tooling/
+debug/
+**/__pycache__/
+*.pyc
+*.bak
+*.db
+*.sqlite*
+*.ndjson
+*.apk
+*.keystore
+*.jks
+*.log
+.env*
+deployment.local.json
+local.properties

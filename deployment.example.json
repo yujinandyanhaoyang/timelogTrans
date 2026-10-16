@@ -1,0 +1,6 @@
+{
+  "base_token": "YOUR_BASE_TOKEN",
+  "table_id": "YOUR_TABLE_ID",
+  "app_id": "cli_YOUR_APP_ID",
+  "dashboard_url": "https://YOUR_TENANT.feishu.cn/base/YOUR_BASE_TOKEN?table=YOUR_DASHBOARD_ID"
+}
